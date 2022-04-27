@@ -1,0 +1,21 @@
+/* <!-- _______________ Reset CSS _______________ --> */
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 1280px;
+}
+
+#footer {
+    background: #FBB900;
+
+    position: absolute;
+    width: 1280px;
+    height: 604px;
+    left: 0px;
+    top: 4205px;
+}

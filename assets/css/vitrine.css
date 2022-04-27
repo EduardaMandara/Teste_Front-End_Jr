@@ -1,0 +1,62 @@
+/* <!-- _______________ Reset CSS _______________ --> */
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* <!-- _______________ Start Here _______________ --> */
+
+#vitrine {
+    position: absolute;
+    display: inline;
+
+    width: 1280px;
+    height: 48px;
+    top: 1700px;
+
+    font-size: 20px;
+    color: #4D4D4D;
+}
+
+#vitrine h1 {
+
+}
+
+#vitrine ul li {
+    position: absolute;
+    display: inline;
+ 
+    padding-left: 700px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#vitrine ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: #9F9F9F;
+}
+
+#vitrine #produtos .produtos__itens {
+
+}
+
+#vitrine #produtos .produtos__itens img {
+    
+}
+
+#vitrine #produtos .produtos__itens p {
+    
+}
+
+#vitrine #produtos .produtos__itens h1 {
+    
+}
+
+#vitrine #produtos .produtos__itens  span {
+    color: #FBB900;
+}
+
+/* <!-- _______________ End Here _______________ --> */
